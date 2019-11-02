@@ -1,2 +1,2 @@
-mvn install
-mvn test
+mvn -B -DskipTests clean package
+mvn test  
