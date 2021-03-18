@@ -6,7 +6,7 @@ package com.san.app;
 public class App
 {
 
-    private final String message = "Hello World!";
+    private final String message = "Hello World Have a nice Day!";
 
     public App() {}
 
